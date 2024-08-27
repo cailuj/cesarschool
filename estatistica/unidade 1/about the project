@@ -1,0 +1,17 @@
+Introdução ao dataset
+
+O dataset escolhido traz informações sobre os ingressantes na Universidade Federal de Pernambuco no ano de 2023, e como é um dado do Governo Federal, já obtive ele tratado e 
+adequado à Lei Geral de Proteção de Dados. Pode ser encontrado no Portal de Dados Abertos do Governo Federal. 
+
+A escolha do dataset teve como motivação traçar o perfil do ingressante UFPE no ano de 2023 e buscar informações que tragam uma sintetização do cenário do ensino superior 
+público no período pós-pandêmico. Desde que o lockdown de 2020 foi flexibilizado para a volta das atividades acadêmicas, vimos o ensino público a nível superior sofrer 
+consequências da inatividade, desde mudanças bruscas no calendário acadêmico (que ainda não foi possível normalizar) a uma mudança de perspectiva de futuro dos novos ingressantes 
+(a popularização da escolha dos cursos na área da computação, etc). Em meio a mudanças estruturais, a dúvida sobre possíveis mudanças no perfil discente surge naturalmente, e as 
+perguntas que motivaram a escolha foi algo como “A Universidade ainda segue o estereótipo branco, masculino e de classes sociais dominantes?”. Acredito que com os dados recolhidos 
+conseguimos ter uma pequena amostra do que seria o perfil universitário do ensino público em 2023.
+
+Diante de todos os números encontrados na análise, a resposta para a pergunta inicial de quem é o perfil do ingressante 2023 é: uma mulher nascida em 2005, nascida em Recife, moradora 
+da Cidade Universitária, que está ingressando em ABI - Engenharia no campus Reitor Joaquim Amazonas, que entrou pelo SISU em ampla concorrência e que não tem nenhum tipo de deficiência.
+Por se tratar de uma mulher, é provável que pelo menos um de seus pais tenha completado o ensino superior, mas essa não é a realidade da maioria da universidade. Outra conclusão que se 
+chega é que mesmo com ações afirmativas, a Universidade ainda sim tem uma cara bem parecida com os estereótipos, e um longo caminho de construção de um espaço diverso e com a verdadeira 
+cara do povo pernambucano.
