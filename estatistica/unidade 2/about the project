@@ -1,0 +1,23 @@
+O dataset escolhido traz informações sobre os alunos da Universidade Federal de Pernambuco no ano de 2023, e como é um dado do Governo 
+Federal, já obtive ele tratado e adequado à Lei Geral de Proteção de Dados. Pode ser encontrado no Portal de Dados Abertos do 
+Governo Federal. 
+
+O dataset escolhido conta com diversas informações sobre alunos que nos períodos letivos de 2023.1 e 2023.2 efetuaram alguma atualização 
+em suas matrículas, portanto também conta com informações de alunos diplomados e alunos que foram desvinculados, trancaram o curso, etc.
+
+Por questões de viabilidade, o dataset foi dividido principalmente por divisão de áreas de conhecimento, usando como base a divisão 
+oficial da UEMA, adaptado para a realidade da UFPE com base no meu conhecimento prévio.
+
+A escolha do dataset teve como motivação entender como se divide a população de alunos da UFPE no ano de 2023 e buscar informações que 
+tragam uma sintetização do cenário do ensino superior público no período pós-pandêmico. Desde que o lockdown de 2020 foi flexibilizado 
+para a volta das atividades acadêmicas, vimos o ensino público a nível superior sofrer consequências da inatividade, desde mudanças bruscas 
+no calendário acadêmico (que ainda está em processo de normalização) a uma mudança de perspectiva de futuro dos novos ingressantes. Em meio 
+a mudanças estruturais, a dúvida sobre possíveis mudanças no perfil discente surge naturalmente, e as perguntas que motivaram a escolha 
+foi algo como “A Universidade ainda segue o estereótipo branco, masculino e de classes sociais dominantes?”. Acredito que com os dados 
+recolhidos conseguimos ter uma pequena amostra do que seria o perfil universitário do ensino público em 2023.
+
+Diante de todos os números encontrados na análise, a resposta para a pergunta inicial de quem é o perfil do ingressante 2023 é: uma mulher 
+nascida em 2001, nascida em Recife, moradora da Cidade Universitária, que está  na área de Tecnologia e Engenharias, no campus Reitor 
+Joaquim Amazonas, que entrou pelo SISU em ampla concorrência e que não tem nenhum tipo de deficiência. Outra conclusão que se chega é que 
+mesmo com ações afirmativas, a Universidade ainda sim tem uma cara bem parecida com os estereótipos, e um longo caminho de construção de 
+um espaço diverso e com a verdadeira cara do povo pernambucano.
