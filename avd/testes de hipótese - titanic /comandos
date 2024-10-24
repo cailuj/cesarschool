@@ -1,0 +1,21 @@
+Utilizando o dataset do Titanic, realize o que se pede:
+
+1. Teste de Hipóteses (Teste t para Médias)
+
+**Teste a hipótese de que a média das idades dos sobreviventes e dos não sobreviventes é igual.**
+
+2. Intervalo de Confiança
+
+**Calcule o intervalo de confiança de 95% para a média de idades dos passageiros.**
+
+3. Significância Estatística
+
+**Verifique se há uma diferença estatisticamente significativa entre a proporção de sobreviventes homens e mulheres no Titanic.**
+
+4. Grau de Confiança
+
+**Calcule e compare os intervalos de confiança de 90%, 95%, e 99% para a média da idade dos passageiros no Titanic.**
+
+5. Potência Estatística
+
+**Estime o tamanho da amostra necessário para detectar uma diferença na proporção de sobreviventes entre homens e mulheres, com uma potência de 80%.**
