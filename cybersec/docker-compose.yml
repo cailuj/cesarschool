@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: senha123
+      POSTGRES_DB: cinema
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./scripts/init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./scripts/init_movies.sql:/docker-entrypoint-initdb.d/init_movies.sql
+      - ./scripts/init_admin.sql:/docker-entrypoint-initdb.d/init_admin.sql
+      - ./scripts/init_users.sql:/docker-entrypoint-initdb.d/init_users.sql
+      - ./scripts/init_orders.sql:/docker-entrypoint-initdb.d/init_orders.sql
+      
+
+  backend:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      DB_NAME: cinema
+      DB_USER: postgres
+      DB_PASSWORD: senha123
+      DB_HOST: db
+    depends_on:
+      - db
+
+  static:
+    image: python:3.12-slim
+    working_dir: /app/frontend
+    volumes:
+      - ./frontend:/app/frontend
+    command: python3 -m http.server 5500
+    ports:
+      - "5500:5500"
